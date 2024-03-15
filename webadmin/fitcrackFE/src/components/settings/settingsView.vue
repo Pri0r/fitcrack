@@ -86,7 +86,7 @@
                   v-model="settings.skip_benchmark"
                   :loading="loading"
                   outlined
-                  label="Skip benchmark-f"
+                  label="Skip benchmark"
                   hint="Do not benchmark already benchmarked hosts."
                   persistent-hint
                   class="mb-4 mt-0"
